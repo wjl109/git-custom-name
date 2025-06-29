@@ -4,5 +4,5 @@
 using namespace std;
 
 int main(){
-    cout<<"commit"<<endl;
+    cout<<"123"<<endl;
 }
